@@ -1,2 +1,2 @@
 # Autoencoder-for-Anomaly-Detection
-The repository contains works we did in the summer internship in Bologna University Artificial Intelligence Group
+This repository contains the works we did during our summer internship in Bologna University - Artificial Intelligence Group. 
