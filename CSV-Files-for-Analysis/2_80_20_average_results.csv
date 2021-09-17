@@ -1,0 +1,46 @@
+,Values
+Number of Hidden Dims,2.0
+Decrease Rate of Layers' Units,1.792
+Pre Filter Count,460.0
+Loss Filter Count,20.0
+Latent Dim,79.0
+Test Accuracy,0.873
+Test Precision,0.381
+Test Recall,0.647
+Test F0.5-Score,0.349
+Test F1-Score,0.394
+Test F2-Score,0.502
+All Data Accuracy,0.863
+All Data Precision,0.232
+All Data Recall,0.654
+All Data F0.5-Score,0.198
+All Data F1-Score,0.238
+All Data F2-Score,0.35
+Post_Test Accuracy,0.912
+Post_Test Precision,0.508
+Post_Test Recall,0.69
+Post_Test F0.5-Score,0.488
+Post_Test F1-Score,0.507
+Post_Test F2-Score,0.576
+Post All Data Accuracy,0.903
+Post All Data Precision,0.335
+Post All Data Recall,0.693
+Post All Data F0.5-Score,0.328
+Post All Data F1-Score,0.361
+Post All Data F2-Score,0.457
+Test True Negative Sum,168896.0
+Test False Positive Sum,25390.0
+Test False Negative Sum,2127.0
+Test True Positive Sum,14367.0
+All True Negative Sum,877718.0
+All False Positive Sum,143870.0
+All False Negative Sum,4213.0
+All True Positive Sum,27921.0
+Post Test True Negative Sum,178105.0
+Post Test False Positive Sum,16479.0
+Post Test False Negative Sum,2125.0
+Post Test True Positive Sum,14071.0
+Post All True Negative Sum,925866.0
+Post All False Positive Sum,96354.0
+Post All False Negative Sum,4303.0
+Post All True Positive Sum,27199.0
